@@ -212,11 +212,11 @@ main h3{
 }
 
 .explain_1 dl{
-  margin: 0 50px;
+  margin: 0 10px;
 }
 
 .t1{
-  margin: 20px 100px;
+  margin: 20px 40px;
   text-align: center;
   /* border-collapse: collapse; */
 }
@@ -271,8 +271,14 @@ footer{
   .explain_1{
     margin: 0 0 0 100px;
   }
+  .explain_1 dl{
+    margin: 0 50px;
+  }  
   .explain_2{
     margin: 0 0 0 100px;
   }
+  .t1{
+    margin: 20px 100px;
+  }  
 }
 
