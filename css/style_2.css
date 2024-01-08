@@ -94,7 +94,7 @@ header {
   position: fixed;
   top: 95px;
   /* bottom: 184px; */
-  bottom: 300px;
+  bottom: 160px;
   left: 0;
   right: 0;
   /* background: rgba(255, 255, 255, 0.95); */
@@ -200,7 +200,7 @@ main h3{
 }
 
 .explain_1{
-  margin: 0 0 0 100px;
+  margin: 0 0 0 20px;
 }
 
 .explain_1 p{
@@ -208,7 +208,7 @@ main h3{
 }
 
 .explain_2{
-  margin: 0 0 0 100px;
+  margin: 0 0 0 20px;
 }
 
 .explain_1 dl{
@@ -267,6 +267,12 @@ footer{
   }
   .sp-menu{
     display: none;
+  }
+  .explain_1{
+    margin: 0 0 0 100px;
+  }
+  .explain_2{
+    margin: 0 0 0 100px;
   }
 }
 
