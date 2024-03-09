@@ -215,9 +215,14 @@ main h3{
   margin: 0 10px;
 }
 
+.t1_scroll{
+  overflow-x: auto;
+}
+
 .t1{
   margin: 20px 40px;
   text-align: center;
+  white-space: nowrap;
   /* border-collapse: collapse; */
 }
 
@@ -239,6 +244,11 @@ main div{
   flex: 1;
   margin: 20px auto ;
   text-align: center;
+}
+
+main div img{
+  /* width: 100%; */
+  object-fit: cover;
 }
 
 footer{
